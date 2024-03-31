@@ -1,0 +1,25 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+menu,
+nav,
+section {
+    display: block;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+/* Styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
